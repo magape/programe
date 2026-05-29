@@ -1,4 +1,4 @@
-# programe
+# Programe
 Programe de  opțional pentru activități nonformale în diferite domenii:
 - electronică
 - robotică
